@@ -150,5 +150,7 @@ public class player implements OnBufferingUpdateListener, OnCompletionListener,
 		}
 		Log.e("onPrepared", "on Prepared");
 	}
+	
+//	Œ“Ω–¡ıœ‡”Í
 
 }
